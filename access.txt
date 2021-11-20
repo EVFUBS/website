@@ -1,0 +1,5 @@
+homepageurl: https://assignment.v.je/index.php
+adminuser: admin@gmail.com
+adminpass: admin1
+nonadminuser: user@gmail.com
+nonadminpassword: user1
